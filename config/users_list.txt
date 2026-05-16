@@ -1,0 +1,4 @@
+tony,students,90
+he_boting,developers,60
+aespa_fan,users,30
+riize_stan,users,30

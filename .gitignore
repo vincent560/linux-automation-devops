@@ -1,0 +1,11 @@
+# 忽略所有測試產生的日誌檔案
+*.log
+/var/log/sys_monitor/*
+
+# 忽略作業系統產生的隱藏暫存檔
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# 忽略 VS Code 自身的本地設定資料夾（非必要上傳）
+.vscode/
